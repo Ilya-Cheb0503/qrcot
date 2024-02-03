@@ -1,3 +1,7 @@
+# my test and help files: test.py & text.py
+test_my.py
+text_my.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
